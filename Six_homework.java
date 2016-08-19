@@ -1,4 +1,4 @@
-package hassan;
+
 
 import java.util.Scanner;
 
