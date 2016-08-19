@@ -14,7 +14,7 @@ public class Six_homework {
 		{
 			sum=sum*x;
 		}
-		System.out.println(sum);
+		System.out.println("The factorial of "+p+" is "+sum);
 	}
 
 }
